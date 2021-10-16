@@ -1,0 +1,9 @@
+flake8
+mypy
+PyJWT
+itsdangerous
+black
+pytest
+isort
+
+
